@@ -1,15 +1,18 @@
-# Updates
+# Raspberry Pi \| 01
 
-## 0.0.1 - 2019-10-20
+## Getting Full Power In Terminal
 
-### Fixed
+Becoming a super user is a fairly straight forward process:
 
-* Logo went of page to cause a page break
+```
+$ sudo su
+```
 
-### Changed
+{% hint style="info" %}
+ Be aware that with this command once it has been performed any commands after will be started as a power user.
+{% endhint %}
 
-* Website was redesigned
-* Dashboard development has started
+Once you're strong enough, look at some fun things to do!
 
 
 
